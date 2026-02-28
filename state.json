@@ -1,0 +1,42 @@
+{
+    "http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html": {
+        "name": "A Light in the Attic",
+        "price": 51.77,
+        "last_checked": "2026-02-28T05:52:12.752266"
+    },
+    "http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html": {
+        "name": "Tipping the Velvet",
+        "price": 53.74,
+        "last_checked": "2026-02-28T05:52:20.790268"
+    },
+    "http://books.toscrape.com/catalogue/soumission_998/index.html": {
+        "name": "Soumission",
+        "price": 50.1,
+        "last_checked": "2026-02-28T05:52:28.687249"
+    },
+    "http://books.toscrape.com/catalogue/sharp-objects_997/index.html": {
+        "name": "Sharp Objects",
+        "price": 47.82,
+        "last_checked": "2026-02-28T05:52:36.892498"
+    },
+    "http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html": {
+        "name": "Sapiens: A Brief History of Humankind",
+        "price": 54.23,
+        "last_checked": "2026-02-28T05:52:44.754031"
+    },
+    "http://books.toscrape.com/catalogue/the-requiem-red_995/index.html": {
+        "name": "The Requiem Red",
+        "price": 22.65,
+        "last_checked": "2026-02-28T05:52:53.161754"
+    },
+    "http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html": {
+        "name": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": 33.34,
+        "last_checked": "2026-02-28T05:53:01.068500"
+    },
+    "http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html": {
+        "name": "The Coming Woman",
+        "price": 17.93,
+        "last_checked": "2026-02-28T05:53:09.018593"
+    }
+}
